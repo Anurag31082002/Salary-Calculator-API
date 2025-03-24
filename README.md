@@ -45,5 +45,6 @@ php artisan migrate --seed
 
 php artisan serve
 
-![image](https://github.com/user-attachments/assets/63cfafa3-3f6a-463e-b909-2994e7173b7a)
+![Screenshot (648)](https://github.com/user-attachments/assets/83c0bb52-1816-44b6-9ccc-2e3d79e51f39)
+
 
